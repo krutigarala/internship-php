@@ -70,7 +70,7 @@
 	  </div><!--close content_photo-->			
     </div><!--close site_content-->	
     <?php
-        include './files/footer.php';
+        include './footer.php';
     ?>
   </div><!--close main-->	
 </body>
