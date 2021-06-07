@@ -70,7 +70,11 @@
 	  </div><!--close content_photo-->			
     </div><!--close site_content-->	
     <?php
+<<<<<<< HEAD
 	include './footer.php';
+=======
+        include './footer.php';
+>>>>>>> 192624d032f4e397e7eb426eee735d1a929aa234
     ?>
   </div><!--close main-->	
 </body>
