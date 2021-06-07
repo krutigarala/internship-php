@@ -9,9 +9,9 @@
 	<div class="section">
         <ul>
             <li class="first"><a href="home.php">Home</a></li>
-            <li><a href="about.php">Gallery</a></li>
-            <li><a href="services.php">Products</a></li>
-            <li><a href="blog.php">About Us</a></li>
+            <li><a href="gallery.php">Gallery</a></li>
+            <li><a href="products.php">Products</a></li>
+            <li><a href="about.php">About Us</a></li>
             <li><a href="contact.php">Contact Us</a></li>
 	</ul>
 	<p>Copyright &copy; &reg;&trade;. Modicare. All Rights Reserved.</p>
