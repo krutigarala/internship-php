@@ -77,10 +77,10 @@
 		<img src="modicare_pics/essensual_deo_oceanblue.jpg" height="200px" width="200px">
 		</td>
 		</tr>
-		<tr><td>Baby Milk Cream</td>
-		<td>Baby Rash Cream</td>
-		<td>Baby Nourishing Soap</td>
-		<td>Baby Talcum Powder</td></tr>
+		<tr><td>Essensual Deo Indulge</td>
+		<td>Essensual Deo Orientalspice</td>
+		<td>Essensual Deo Momentum</td>
+		<td>Essensual Deo Oceanblue</td></tr>
 		<tr>
 		<td>
 		<img src="personal_care/essensual_hand_body_lotion_honey100ml.jpg" height="200px" width="200px">
