@@ -1,0 +1,57 @@
+/*
+Theme Name: Teczilla Consulting
+Theme URI: https://www.avadantathemes.com/product/teczilla-consulting/
+Template: teczilla  
+Author: avadantathemes
+Author URI: https://www.avadantathemes.com/
+Description:  Teczilla consulting is child theme of teczilla wordpress theme perfect for consulting, finance and for business.It is a creative, fully customizable and multipurpose theme that you can use to create any kind of beautiful websites. pre-made designed Homepage with 7 inner sections slider, service, about, team, testimonial, portfolio, call to action, you can easily customize them. Unlimited color feature with unlimited typography.The theme suitable for saas application website, architecture, interior design, corporate, agency, business, decoration, business, furniture, home decor, law firm, consulting, insurance, app landing page, it solutions, shop ecommerce, marketing, gym, blog, travel agency, construction,  spa salons, industries, Beauty, photography, and many other websites compatible. HIde show post meta and title for post. Unlimited icons option for services. Full screen responsive page layout. SEO optimized pages and fast speed loading. Teczilla has lots of others faetures like sticky menu, unlimited color scheme, page with sidebar layout, social media, bootstrap4 framework support. Compatible with gutenberg, elemnetor page builder WooCommerce, contact form 7, Jetpack, Google analytics and so many popular premium & free plugins nicely works with teczilla theme. For more theme information, check out Theme demo here at https://www.avadantathemes.com/demo/teczilla-consulting/ and theme instructions here at https://www.avadantathemes.com/documentation/teczilla-free-theme/
+Version: 1.0.1
+Requires at least: 5.0
+Tested up to: 5.7
+Requires PHP: 5.6
+Text Domain: teczilla-consulting
+Tags: one-column, two-columns, four-columns, right-sidebar, flexible-header, custom-background, custom-header, custom-menu, editor-style, featured-images, footer-widgets, rtl-language-support, translation-ready, full-width-template, custom-logo, blog, e-commerce, post-formats, theme-options, threaded-comments,  portfolio
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html/ GPL v3.0 (or later)
+*/
+
+.toolbar-area{
+	position: relative;
+    z-index: 1;
+}
+.toolbar-area{
+	background-color:#252628 !important;
+}
+
+.toolbar-area::after {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: -35px;
+	width: 70%;
+	height: 100%;
+	z-index: -1;
+	transform: skew(-26deg);
+	padding-left: 20px;
+	background: #FF3C00;
+}
+
+.current_page_item {
+    background-color:transparent !important;
+	
+}
+.full-width-header .toolbar-area .toolbar-sl-share ul li a {
+    background-color: transparent !important;    
+    color: #fff !important;
+	font-size:22px;
+}
+
+.full-width-header .toolbar-area .toolbar-sl-share ul {
+    text-align: right;
+    margin-right: 0;
+}
+
+
+.full-width-header .tec-header {
+    z-index: 99;
+    position: relative;
+}
